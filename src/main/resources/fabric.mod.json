@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "nointernet",
+	"version": "${version}",
+	"name": "NoInternet",
+	"description": "在游戏启动阶段拦截非白名单的网络请求，避免不必要的更新检查等拖慢启动速度。",
+	"authors": [
+		"FleTime"
+	],
+	"contact": {
+		"sources": "https://github.com/7N4D6Un/NoInternet"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/nointernet/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.fletime.nointernet.NoInternet"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
