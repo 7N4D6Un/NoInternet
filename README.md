@@ -2,7 +2,7 @@
 
 一个 Minecraft Fabric Mod，可以在游戏启动阶段拦截非白名单的网络请求，避免不必要的更新检查等拖慢启动速度。
 
-> 参考自 [NonUpdate Reloaded](https://www.mcmod.cn/class/14789.html)
+> 参考自 [NonUpdate Reloaded](https://modrinth.com/mod/non-update-reloaded)
 
 ## 功能
 
