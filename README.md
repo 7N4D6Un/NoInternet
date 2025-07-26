@@ -29,7 +29,7 @@
 }
 ```
 
-> 其中的 toriifind.json 和 lynn.json 是我的另一个mod需要的，你如果用不到，可以将其删除。
+> 其中的 toriifind.json 和 lynn.json 是我的另一个Mod "ToriiFind" 需要的，你如果用不到，可以将其删除。
 
 ### 配置项说明
 
