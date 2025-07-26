@@ -1,7 +1,5 @@
 # NoInternet
 
-此描述使用 DeepL 进行翻译
-
 可以在游戏启动阶段拦截非白名单的网络请求，避免不必要的更新检查等拖慢启动速度。
 
 > 参考自 [NonUpdate Reloaded](https://modrinth.com/mod/non-update-reloaded)
